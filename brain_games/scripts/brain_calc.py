@@ -1,12 +1,11 @@
-from brain_games.even import even_check
+from brain_games.calc import calc
 from brain_games.cli import welcome_user
 
 
 def main():
     print("Welcome to the Brain Games!")
     name = welcome_user()
-    even_check(name)
-        
+    calc(name)
 
 if __name__ == "__main__":
-    main()     
+    main()
