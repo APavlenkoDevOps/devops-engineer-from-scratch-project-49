@@ -1,11 +1,9 @@
-from brain_games.even import even_check
-from brain_games.cli import welcome_user
+from brain_games.engine import engine
+from brain_games.games import even
 
 
 def main():
-    print("Welcome to the Brain Games!")
-    name = welcome_user()
-    even_check(name)
+    engine(even)
         
 
 if __name__ == "__main__":

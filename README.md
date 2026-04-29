@@ -14,4 +14,8 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=APavlenkoDevOps_devops-engineer-from-scratch-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=APavlenkoDevOps_devops-engineer-from-scratch-project-49)
 
 ### Demo
+Game 1
 [![asciicast](https://asciinema.org/a/D7729wRMoyO0qwoz.svg)](https://asciinema.org/a/D7729wRMoyO0qwoz)
+
+Game 2
+[![asciicast](https://asciinema.org/a/T4mHYNQXHio6jd3w.svg)](https://asciinema.org/a/T4mHYNQXHio6jd3w)
