@@ -19,3 +19,6 @@ Game 1
 
 Game 2
 [![asciicast](https://asciinema.org/a/T4mHYNQXHio6jd3w.svg)](https://asciinema.org/a/T4mHYNQXHio6jd3w)
+
+Game 3
+[![asciicast](https://asciinema.org/a/l35xoN0k4dyqvk7b.svg)](https://asciinema.org/a/l35xoN0k4dyqvk7b)
