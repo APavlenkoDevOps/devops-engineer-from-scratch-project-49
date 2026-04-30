@@ -13,6 +13,41 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=APavlenkoDevOps_devops-engineer-from-scratch-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=APavlenkoDevOps_devops-engineer-from-scratch-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=APavlenkoDevOps_devops-engineer-from-scratch-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=APavlenkoDevOps_devops-engineer-from-scratch-project-49)
 
+### General info
+**Brain Games** — This is a set of five console games based on popular brain training apps. Each game presents questions that must be answered correctly. After three correct answers, the game is considered completed.
+
+### Games:
+* **brain-even**: Determining an even number.
+* **brain-calc**: Arithmetic expressions.
+* **brain-gcd**: НFinding the greatest common divisor.
+* **brain-progression**: Searching for a missing number in a progression.
+* **brain-prime**: Determining of a prime number.
+
+### Minimum Requirements
+* Python 3.10 or higher
+* Project managet [uv](https://docs.astral.sh/uv/)
+
+### Installation
+1. Clone the repo:
+   bash
+
+   git clone [https://github.com/APavlenkoDevOps/devops-engineer-from-scratch-project-49.git](https://github.com/APavlenkoDevOps/devops-engineer-from-scratch-project-49.git)
+   cd devops-engineer-from-scratch-project-49
+
+2. Package install:
+    bash
+
+    make install
+
+### Usage
+bash
+
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+
 ### Demo
 Game 1
 [![asciicast](https://asciinema.org/a/D7729wRMoyO0qwoz.svg)](https://asciinema.org/a/D7729wRMoyO0qwoz)
