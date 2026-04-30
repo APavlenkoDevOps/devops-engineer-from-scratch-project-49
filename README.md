@@ -22,3 +22,6 @@ Game 2
 
 Game 3
 [![asciicast](https://asciinema.org/a/l35xoN0k4dyqvk7b.svg)](https://asciinema.org/a/l35xoN0k4dyqvk7b)
+
+Game 4
+[![asciicast](https://asciinema.org/a/a8oVIVXCC1IGDItF.svg)](https://asciinema.org/a/a8oVIVXCC1IGDItF)
