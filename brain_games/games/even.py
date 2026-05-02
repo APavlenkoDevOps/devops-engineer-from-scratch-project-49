@@ -1,6 +1,6 @@
 import random
 
-DESCRIPTION = "Answer 'yes' if the number is even, otherwise answer 'no'."
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def is_even(num):
@@ -9,6 +9,6 @@ def is_even(num):
 
 def generate_round():
     num = random.randint(1, 100)
-    question = f'Question: {num}'
+    question = num
     correct_answer = 'yes' if is_even(num) else 'no'
     return question, correct_answer
