@@ -2,11 +2,13 @@ import random
 
 DESCRIPTION = "What number is missing in the progression?"
 
+
 def generate_progression():
     start = random.randint(1, 20)
     step = random.randint(1, 10)
     length = random.randint(5, 10)
     return [start + i * step for i in range(length)]
+
 
 def generate_round():
     progression = generate_progression()
