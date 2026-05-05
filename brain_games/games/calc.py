@@ -1,5 +1,7 @@
 import random
 
+DESCRIPTION = 'What is the result of the expression?'
+
 
 def calcl_answer(num1, num2, operator):
     match operator:
@@ -10,9 +12,6 @@ def calcl_answer(num1, num2, operator):
         case '*':
             return num1 * num2
         
-        
-DESCRIPTION = 'What is the result of the expression?'
-
 
 def generate_round():
     num1 = random.randint(1, 10)
